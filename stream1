@@ -33,12 +33,6 @@ http://www.layarku.tv/media/riav6.m3u8
 #EXTINF:-1, KBS WORLD
 rtmp://118.97.183.196/jhos//kbs
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/awani.png" tvg-name="AWANI"  group-title="Malaysia",AWANI
-rtmpe://cp160334.live.edgefcs.net:1935/live app=live?ovpfv=1.1 playpath=AstroAwani24x7_3@74937 conn=Z: swfUrl=http://vdata.astroawani.com/flash/VideoPlayer.swf pageUrl=http://www.astroawani.com/videos/live swfVfy=true live=true timeout=15
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/awani.png" tvg-name="AWANI2"  group-title="Malaysia",AWANI2
-rtmp://cp160334.live.edgefcs.net:443/live app=live?ovpfv=1.1 playpath=AstroAwani24x7_3@74937 conn=Z: swfUrl=http://static.astroawani.com/flash/VideoPlayer.swf?v=20150724 pageUrl=http://www.astroawani.com/live-tv swfVfy=true live=true timeout=15
-
 #EXTINF:-1, tvg-logo="611_300.png" tvg-logo="http://2.bp.blogspot.com/-hiXzILsznYQ/T8tIiJpIcuI/AAAAAAAABMk/ZrDtHNrFKMA/s320/astro-ceria.png" group-title="ASTRO-MALAYSIA TV",Astro Ceria
 http://layarku.dynns.com:1997/tip=iptv1.layarku.tv:2028/536117a60001416d786536a65bda2bdf.ts&token=nalzmznoe6dgkzi4hvg05c
 
