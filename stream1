@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="tv1.png" tvg-logo="http://upload.wikimedia.org/wikipedia/en/8/85/Radio_Television_Malaysia.jpg",TV1
+#EXTINF:-1 tvg-logo="tv1.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/85/Radio_Television_Malaysia.jpg",TV1
 http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch001.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1446533711&myTokenPrefixhash=z6SHzub2W3cgvlcIwlVjqMTwHehvs2r32W4Fy-1reNQ=
 
-#EXTINF:-1 tvg-logo="tv2.png" tvg-logo="http://upload.wikimedia.org/wikipedia/en/8/85/Radio_Television_Malaysia.jpg",TV2
+#EXTINF:-1 tvg-logo="tv2.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/85/Radio_Television_Malaysia.jpg",TV2
 http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch002.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1446533760&myTokenPrefixhash=wgYrvruNp_zHjt00aDE8ceBsVn5U-w1ZDH6LicVVG60=
 
 #EXTINF:-1 tvg-logo="tv3.png" tvg-logo="http://dev.mediaprima.com.my/wp-content/uploads/2014/05/tv31.png",TV3
