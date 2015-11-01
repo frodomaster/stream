@@ -74,7 +74,7 @@ http://edge.telin.swiftserve.com/live/livetv-sbr/u-muhammadiyahtv/chunklist.m3u8
 #EXTINF:0, [COLOR red][B]( KIDS)[/B][/COLOR]
 http://50.7.96.210:8285
 
-#EXTINF:0, KIDS PLAY
+#EXTINF:0, KIDS PLAYS
 http://123.108.164.71/etv2sb/phd507/lihattv.m3u8
 
 #EXTINF:0, Cartoon Network Asia
