@@ -1,21 +1,21 @@
 #EXTM3U
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/tv1.png" tvg-name="TV1"  group-title="Malaysia",TV1
+#EXTINF:-1 tvg-logo="tv1.png" tvg-logo="http://upload.wikimedia.org/wikipedia/en/8/85/Radio_Television_Malaysia.jpg",TV1
 http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch001.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1446533711&myTokenPrefixhash=z6SHzub2W3cgvlcIwlVjqMTwHehvs2r32W4Fy-1reNQ=
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/tv2.png" tvg-name="TV2"  group-title="Malaysia",TV2
+#EXTINF:-1 tvg-logo="tv2.png" tvg-logo="http://upload.wikimedia.org/wikipedia/en/8/85/Radio_Television_Malaysia.jpg",TV2
 http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch002.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1446533760&myTokenPrefixhash=wgYrvruNp_zHjt00aDE8ceBsVn5U-w1ZDH6LicVVG60=
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/tv3.png" tvg-name="TV3"  group-title="Malaysia",TV3
+#EXTINF:-1 tvg-logo="tv3.png" tvg-logo="http://dev.mediaprima.com.my/wp-content/uploads/2014/05/tv31.png",TV3
 http://tv3liveios-i.akamaihd.net/hls/live/205900/ios/tv3live/master.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/ntv7.png" tvg-name="NTV7"  group-title="Malaysia",NTV7
+#EXTINF:-1 tvg-logo="ntv7.png" tvg-logo="http://dev.mediaprima.com.my/wp-content/uploads/2014/05/ntv7.png",NTV7
 http://ntv7liveios-i.akamaihd.net/hls/live/205902/ios/ntv7live/master.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/8tv.png" tvg-name="8TV"  group-title="Malaysia",8TV
+#EXTINF:-1 tvg-logo="8tv.png" tvg-logo="http://dev.mediaprima.com.my/wp-content/uploads/2014/05/8tv.png",8TV
 http://8tvliveios-i.akamaihd.net/hls/live/205901/ios/8tvlive/master.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/tv9.png" tvg-name="TV9"  group-title="Malaysia",TV9
+#EXTINF:-1 tvg-logo="tv9.png" tvg-logo="http://dev.mediaprima.com.my/wp-content/uploads/2014/05/tv9.png",TV9
 http://tv9liveios-i.akamaihd.net/hls/live/205903/ios/tv9live/master.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/tvi.png" tvg-name="TVi"  group-title="Malaysia",TVi
@@ -39,52 +39,45 @@ rtmpe://cp160334.live.edgefcs.net:1935/live app=live?ovpfv=1.1 playpath=AstroAwa
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/awani.png" tvg-name="AWANI2"  group-title="Malaysia",AWANI2
 rtmp://cp160334.live.edgefcs.net:443/live app=live?ovpfv=1.1 playpath=AstroAwani24x7_3@74937 conn=Z: swfUrl=http://static.astroawani.com/flash/VideoPlayer.swf?v=20150724 pageUrl=http://www.astroawani.com/live-tv swfVfy=true live=true timeout=15
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/bernama.png" tvg-name="BERNAMA TV"  group-title="Malaysia",BERNAMA TV
-http://d22b8vh21p20bg.cloudfront.net/mylive/smil:bernama2_all.smil/playlist.m3u8
+#EXTINF:-1, tvg-logo="611_300.png" tvg-logo="http://2.bp.blogspot.com/-hiXzILsznYQ/T8tIiJpIcuI/AAAAAAAABMk/ZrDtHNrFKMA/s320/astro-ceria.png" group-title="ASTRO-MALAYSIA TV",Astro Ceria
+http://layarku.dynns.com:1997/tip=iptv1.layarku.tv:2028/536117a60001416d786536a65bda2bdf.ts&token=nalzmznoe6dgkzi4hvg05c
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/1news.png" tvg-name="1NEWS"  group-title="Malaysia",1NEWS
-http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch006.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1446533861&myTokenPrefixhash=ccbNSkVX1qOREL6OR5hk-6qkU3yiJrHKH1hCQyST35U=
+#EXTINF:-1, tvg-logo="135_300.png" tvg-logo="http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/135_300.png" group-title="ASTRO-MALAYSIA TV",Maya HD
+http://layarku.dynns.com:1997/tip=iptv1.layarku.tv:2028/5361175b0006ae757864130625b1768c.ts&token=ljyzluuybfk2jemygytg9j
 
-#EXTINF:-0, [COLOR deepskyblue][B](::: INDONESIA :::)[/B][/COLOR]
-http://50.7.96.210:8285
+#EXTINF:-1, tvg-logo="134_300.png" tvg-logo="http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/134_300.png" group-title="ASTRO-MALAYSIA TV",Mustika HD
+http://layarku.dynns.com:1997/tip=iptv1.layarku.tv:2028/537b86ce000a25dc453ed14e10a47a9d.ts&token=b6pglmfcnpaxwzc7zl34pr
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/kompas_tv_id.png" tvg-name="KOMPAS TV"  group-title="Indonesia",KOMPAS TV
-rtmp://202.137.11.52:1935/jakarta/offair.sdp
+#EXTINF:-1, tvg-logo="106_300.png" tvg-logo="http://3.bp.blogspot.com/-bluqn3-Ra90/T8tI11beNOI/AAAAAAAABM8/qpDIINpzPxk/s320/astro-oasis.png" group-title="ASTRO-MALAYSIA TV",Astro Oasis
+http://www.layarku.tv/media/oasisv6.m3u8
 
-#EXTINF:0, BeritaSatu WORLD HD
-http://stream.beritasatu.com:8134/world.m3u8
+#EXTINF:-1, tvg-logo="105_300.png" tvg-logo="http://3.bp.blogspot.com/-IpN7xIr1T-M/T8tIq-iiyEI/AAAAAAAABMw/C2t1zD4Sk3g/s1600/astro-prima.png" group-title="ASTRO-MALAYSIA TV",Astro Prima
+http://www.layarku.tv/media/primav6.m3u8
 
-#EXTINF:0, Metro NEWS HD
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+#EXTINF:-1, tvg-logo="132_300.png" tvg-logo="http://2.bp.blogspot.com/-1Q6P1zuNR4A/UQkwsFj2RWI/AAAAAAAAEso/uRcFUYZEccQ/s320/astro-warna.png" group-title="ASTRO-MALAYSIA TV",Astro Warna
+http://www.layarku.tv/media/warnav6.m3u8
+ 
+#EXTINF:-1 tvg-logo="astroawani.png" tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/astro_awani.png" group-title="TV MALAYSIA",tvg-name="ASTRO AWANI",ASTRO AWANI
+rtmp://cp160334.live.edgefcs.net/live?ovpfv=1.1/AstroAwani24x7_3@74937
 
-#EXTINF:-0, [COLOR slateblue][B](::: NEWS :::)[/B][/COLOR]
-http://50.7.96.210:8285
+#EXTINF:-1 tvg-logo="astroawani.png" tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/astro_awani.png" group-title="TV MALAYSIA",tvg-name="ASTRO AWANI",ASTRO AWANI
+rtmpe://cp160334.live.edgefcs.net:1935/live app=live?ovpfv=1.1 playpath=AstroAwani24x7_3@74937 conn=Z: swfUrl=http://vdata.astroawani.com/flash/VideoPlayer.swf pageUrl=http://www.astroawani.com/videos/live swfVfy=true live=true timeout=15
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="AL JAZEERA ENGLISH"  group-title="News",AL JAZEERA ENGLISH
-http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
 
-#EXTINF:0, CNN HD
-http://hls.tv.iptv.ink/cnnuk@257164.m3u8|X-Forwarded-For=81.17.18.55
+#EXTINF:-1 tvg-logo="801_300.png" tvg-logo="http://2.bp.blogspot.com/-XMy74KSwfo8/UQkskX2BNnI/AAAAAAAAEqo/_IiiFB-SeGA/s320/astro-arena.png" group-title="ASTRO-MALAYSIA TV",Astro Arena
+http://bit.ly/astro-ARENA
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ABC NEWS"  group-title="News",ABC NEWS
-http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+#EXTINF:-1 tvg-logo="801_300.png" tvg-logo="http://2.bp.blogspot.com/-XMy74KSwfo8/UQkskX2BNnI/AAAAAAAAEqo/_IiiFB-SeGA/s320/astro-arena.png" group-title="ASTRO-MALAYSIA TV",Astro Arena (Link 2)
+http://ser9.layarku.tv/nexbroadcast/nexbroadcast.smil/playlist.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BBC WORLD NEWS"  group-title="News",BBC WORLD NEWS
-http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
+#EXTINF:-1 tvg-id=“TAUHID TV” tvg-name=“TAUHID_TV” tvg-logo="TAUHID TV.png" group-title="INDONESIAN TV CHANNEL",TAUHID TV
+http://edge.telin.swiftserve.com/live/livetv-sbr/u-tauhidtv/chunklist.m3u8
 
-#EXTINF:0, BLOOMBERG
-http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+#EXTINF:-1 tvg-id=“MUHAMMADIYAH” tvg-name=“MUHAMMADIYAH” tvg-logo="MUHAMMADIYAH.png" group-title="INDONESIAN TV CHANNEL",MUHAMMADIYAH TV
+http://edge.telin.swiftserve.com/live/livetv-sbr/u-muhammadiyahtv/chunklist.m3u8
 
-#EXTINF:0, i24 News
-http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_english/398/master.m3u8
 
-#EXTINF:-1, NHK WORLD
-http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index_1180.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NASA TV HD"  group-title="Group N/A",NASA TV HD
-http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
-
-#EXTINF:0, [COLOR fuchsia][B](::: KIDS :::)[/B][/COLOR]
+#EXTINF:0, [COLOR red][B]( KIDS)[/B][/COLOR]
 http://50.7.96.210:8285
 
 #EXTINF:0, KIDS PLAY
